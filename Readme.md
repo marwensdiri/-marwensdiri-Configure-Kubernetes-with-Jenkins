@@ -1,5 +1,7 @@
 # Configuring CI/CD on Kubernetes with Jenkins
 
+The repo comes from [kemallaydin](https://github.com/kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins)
+
 ### Introduction
 
 DevOps encourages collaboration, cooperation, and communication between developers and operations teams to improve the speed and quality of software development. One of the key principles of DevOps is automation, which reduces human error, provides consistent results, and even mitigates risks. With the help of automation, you and your team can build, test, and deploy software quickly and efficiently. 
